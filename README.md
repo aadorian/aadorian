@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Software Eng. @ Universidad ORT Uruguay
 
 <!--
 **aadorian/aadorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
