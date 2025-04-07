@@ -62,6 +62,9 @@ Basic Sciences Development Program, Computer Science Area (PEDECIBA), Uruguay
 - **Funding**: National Agency for Research and Innovation, Uruguay  
 
 ---
+## Google Scholar Profile
+
+You can view my publications on [Google Scholar](https://scholar.google.com/citations?hl=es&view_op=list_works&gmla=ANZ5fUNc7fnVp6LpVolwYHjR3Xd6hkimMKPJfZkPy4POzZFMVSeCGLtp1sQkHypt5xakB6-OMFn2MVehprPxarqLjWlg2vhJ5A&user=FlSLc4gAAAAJ).
 
 # Complementary Training
 
